@@ -1,0 +1,13 @@
+{
+  "name": "cosmos-proxy-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js proxy to Cosmos DB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^4.4.1",
+    "express": "^4.18.2"
+  }
+}
