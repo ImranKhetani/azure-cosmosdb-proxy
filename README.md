@@ -32,8 +32,8 @@ It solves the common requirement where firewalls can only whitelist **IP address
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/ImranKhetani/azure-cosmosdb-proxy.git
+cd azure-cosmosdb-proxy
 ```
 
 ### 2. Initialize Terraform
